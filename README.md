@@ -3,7 +3,7 @@
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Known Vulnerabilities](https://snyk.io/test/github/freecodecamp/freecodecamp/badge.svg)](https://snyk.io/test/github/freecodecamp/freecodecamp)
-
+<a href="https://deepscan.io/dashboard#view=project&tid=2501&pid=3678&bid=32177"><img src="https://deepscan.io/api/teams/2501/projects/3678/branches/32177/badge/grade.svg" alt="DeepScan grade"></a>
 
 ## Welcome to freeCodeCamp.org's open source codebase and curriculum!
 
@@ -141,7 +141,3 @@ The content of this repository is bound by the following licenses:
 - The computer software is licensed under the [BSD-3-Clause](LICENSE.md) License.
 - The [curricular content](https://www.npmjs.com/package/@freecodecamp/curriculum) in the [`/curriculum`](/curriculum) folder and its subdirectories are licensed under the [CC-BY-SA-4.0](/curriculum/LICENSE.md) License.
 
-
-### badge
-
-<a href="https://deepscan.io/dashboard#view=project&tid=2501&pid=3678&bid=32177"><img src="https://deepscan.io/api/teams/2501/projects/3678/branches/32177/badge/grade.svg" alt="DeepScan grade"></a>

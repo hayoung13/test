@@ -140,3 +140,8 @@ The content of this repository is bound by the following licenses:
 
 - The computer software is licensed under the [BSD-3-Clause](LICENSE.md) License.
 - The [curricular content](https://www.npmjs.com/package/@freecodecamp/curriculum) in the [`/curriculum`](/curriculum) folder and its subdirectories are licensed under the [CC-BY-SA-4.0](/curriculum/LICENSE.md) License.
+
+
+### badge
+
+<a href="https://deepscan.io/dashboard#view=project&tid=2501&pid=3678&bid=32177"><img src="https://deepscan.io/api/teams/2501/projects/3678/branches/32177/badge/grade.svg" alt="DeepScan grade"></a>

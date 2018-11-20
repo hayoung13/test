@@ -1,12 +1,10 @@
-//root = true
-root = false
-//m by hayoung//
+root = true
+
 [*]
 indent_style = space
 end_of_line = lf
-//charset = utf-8
-charset = 
-// m by hayoung//
+charset = utf-8
+
 trim_trailing_whitespace = true
 insert_final_newline = true
 
